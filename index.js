@@ -1,5 +1,5 @@
-const miModulo = require("./empleados");
-const ejemplo = require("./material");
+const miModulo = require("./Modulos/empleados");
+const ejemplo = require("./Modulos/material");
 const llamado = miModulo.costoEmpleados();
 const llama = ejemplo.totales();
 
